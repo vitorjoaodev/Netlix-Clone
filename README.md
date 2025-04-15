@@ -5,7 +5,8 @@
 Um clone funcional e visualmente fiel da interface da Netflix, desenvolvido com **React**, utilizando boas práticas modernas: **SPA + PWA**, **Redux/Context API**, **roteamento com React Router v6**, e design totalmente **responsivo** com foco em **UX/UI de alto nível**.
 
 <p align="center">
-  <img src="./public/preview.png" alt="Preview do Netflix Clone" width="700"/>
+  <img src="./public/preview.png" alt="Preview" width="700"/>
+>
 </p>
 
 ---
